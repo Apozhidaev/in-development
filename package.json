@@ -1,0 +1,8 @@
+{
+  "name": "in-development",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Apozhidaev/in-development.git",
+  "author": "alexanderpo <alexander.pozhidaev@gmail.com>",
+  "license": "MIT"
+}
